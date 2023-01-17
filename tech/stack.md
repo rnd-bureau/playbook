@@ -1,4 +1,4 @@
-# Стек технологий
+# Технический стек
 
 ## Языки
 - Python
@@ -6,7 +6,7 @@
 - PHP (Aidoo)
 
 ## Технологии
-- NoSQl (MongoDB, CouchDB)
+- NoSQL (MongoDB, CouchDB)
 - RDB (PostgreSQL, SQLite)
 
 ## Инфраструктура
