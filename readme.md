@@ -9,5 +9,25 @@
 ***
 
 # Содержание
+## Самое важное
 - [О команде](about/company.md)
 - [Наши ценности](about/values.md)
+
+## Коммуникации
+- [На «ты» или на «вы»](communication/thouOrYe.md)
+- [Инструменты](communication/tools.md)
+
+## Технологии и инструменты
+- [Стек технологий](tech/stack.md)
+- [Ограничения](tech/constraints.md)
+- [Инструменты](tech/tools.md)
+
+## Рабочие процессы
+- [График и удалёнка](work/thouOrYe.md)
+- [Процесс работы](work/process.md)
+- [Постановка задач](work/taskDefinition.md)
+
+## Рост и развитие
+- [Встречи 1о1](talentMngmt/1o1.md)
+- [Performance Review](talentMngmt/performanceReview.md)
+- [Библиотека](talentMngmt/library.md)
