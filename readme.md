@@ -23,7 +23,7 @@
 - [Инструменты](tech/tools.md)
 
 ## Рабочие процессы
-- [График и удалёнка](work/thouOrYe.md)
+- [График и удалёнка](work/scheduleAndRemoteWork.md)
 - [Процесс работы](work/process.md)
 - [Постановка задач](work/taskDefinition.md)
 
