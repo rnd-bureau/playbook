@@ -15,6 +15,7 @@
 
 ## Коммуникации
 - [На «ты» или на «вы»](communication/thouOrYe.md)
+- [Использование мата](communication/fckUsing.md)
 - [Принципы коммуникации](communication/principles.md)
 - [Инструменты](communication/tools.md)
 
